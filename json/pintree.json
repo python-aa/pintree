@@ -11,10 +11,10 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1703842755896,
+            "addDate": 1732500867163,
             "title": "筛选器 | 我的工作台",
             "icon": "https://logo.clearbit.com/1s.oristand.com",
-            "url": "https://1s.oristand.com/project/#/workspace/team/63FL1oSZ/filter/view/6M7VHdTm"
+            "url": "https://1s.oristand.com/project/#/workspace/team/63FL1oSZ/filter/view/LQDLBDZW"
           },
           {
             "type": "link",
@@ -120,13 +120,6 @@
             "title": "登录-ByteBase",
             "icon": "https://logo.clearbit.com/sql.oristand.com",
             "url": "https://sql.oristand.com/auth"
-          },
-          {
-            "type": "link",
-            "addDate": 1621839850802,
-            "title": "ProcessOn - 我的文件",
-            "icon": "https://logo.clearbit.com/www.processon.com",
-            "url": "https://www.processon.com/diagrams"
           }
         ]
       },
@@ -282,13 +275,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1660543261459,
-                "title": "A Markdown Editor for the 21st Century | Zettlr",
-                "icon": "https://logo.clearbit.com/www.zettlr.com",
-                "url": "https://www.zettlr.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1653643527822,
                 "title": "Studio 3T无限试用激活破解版下载 v2019.3.0 - zd423",
                 "icon": "https://logo.clearbit.com/www.zdfans.com",
@@ -393,20 +379,6 @@
             "title": "在线字符串长度计算，字符串统计工具 - UU在线工具",
             "icon": "https://logo.clearbit.com/uutool.cn",
             "url": "https://uutool.cn/str-count/"
-          },
-          {
-            "type": "link",
-            "addDate": 1675649489396,
-            "title": "帮小忙，腾讯在线工具箱平台",
-            "icon": "https://logo.clearbit.com/tool.browser.qq.com",
-            "url": "https://tool.browser.qq.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1695436021803,
-            "title": "菜鸟工具 - 不止于工具",
-            "icon": "https://logo.clearbit.com/c.runoob.com",
-            "url": "https://c.runoob.com/"
           }
         ]
       },
@@ -536,6 +508,13 @@
           },
           {
             "type": "link",
+            "addDate": 1732498035030,
+            "title": "NeoBund",
+            "icon": "https://logo.clearbit.com/www.neobund.com",
+            "url": "https://www.neobund.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1729764327747,
             "title": "镝数图表-简单好用的免费在线可视化图表制作工具",
             "icon": "https://logo.clearbit.com/dycharts.com",
@@ -562,6 +541,20 @@
         "addDate": 1676424561081,
         "title": "登录",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1732342251987,
+            "title": "CAS",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732342230898,
+                "title": "single-sign-front-desk",
+                "icon": "https://logo.clearbit.com/cas-uat.orsd.tech",
+                "url": "https://cas-uat.orsd.tech/login"
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1692942318611,
@@ -1097,7 +1090,7 @@
                 "addDate": 1687051214319,
                 "title": "sea-T2",
                 "icon": "https://logo.clearbit.com/uat.maritime.orsd.tech",
-                "url": "http://uat.maritime.orsd.tech/#/index"
+                "url": "http://uat.maritime.orsd.tech/#/login"
               },
               {
                 "type": "link",
@@ -1968,13 +1961,6 @@
             "title": "SecureCRT显示乱码的解决办法_securecrt英文乱码-CSDN博客",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
             "url": "https://blog.csdn.net/zhengqijun_/article/details/70197567"
-          },
-          {
-            "type": "link",
-            "addDate": 1703815625837,
-            "title": "DRP新增支持B2B两种业务发货：FBA-批量自提、VCPO自提",
-            "icon": "https://logo.clearbit.com/1s.oristand.com",
-            "url": "https://1s.oristand.com/project/#/workspace/team/63FL1oSZ/filter/view/SYUFWY4b"
           }
         ]
       },
@@ -3731,8 +3717,141 @@
       {
         "type": "folder",
         "addDate": 1695445774278,
-        "title": "工具类",
+        "title": "工具|插件",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1731562547072,
+            "title": "插件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732014971136,
+                "title": "Projects",
+                "icon": "https://logo.clearbit.com/dromara.org",
+                "url": "https://dromara.org/projects/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732630050002,
+                "title": "iSilo – 宝B网！",
+                "icon": "https://logo.clearbit.com/baobie.net",
+                "url": "https://baobie.net/archives/category/spebook/isilo"
+              },
+              {
+                "type": "link",
+                "addDate": 1732628402263,
+                "title": "Google Play Apk 提取，下载安卓安装包（三种方法） - 哔哩哔哩",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/opus/893439290204225561"
+              },
+              {
+                "type": "link",
+                "addDate": 1731913693334,
+                "title": "Home | OkHttps",
+                "icon": "https://logo.clearbit.com/ok.zhxu.cn",
+                "url": "https://ok.zhxu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730802187947,
+                "title": "Cool Request | Cool Request",
+                "icon": "https://logo.clearbit.com/coolrequest.dev",
+                "url": "https://coolrequest.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731561083344,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/app.pintree.io",
+                "url": "https://app.pintree.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731562432864,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/zhenbiao-li.github.io",
+                "url": "https://zhenbiao-li.github.io/pintree/"
+              },
+              {
+                "type": "link",
+                "addDate": 1676889669558,
+                "title": "EasyExcel官方文档 - 基于Java的Excel处理工具 | Easy Excel",
+                "icon": "https://logo.clearbit.com/easyexcel.opensource.alibaba.com",
+                "url": "https://easyexcel.opensource.alibaba.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731676339187,
+                "title": "CodePhiliaX/easyexcel-plus: easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/CodePhiliaX/easyexcel-plus"
+              },
+              {
+                "type": "link",
+                "addDate": 1727090514061,
+                "title": "image-combiner: ImageCombiner是一个专门用于Java服务端图片合成的工具，没有很复杂的功能，简单实用，从实际业务场景出发，提供简单的接口，几行代码即可实现图片拼合（当然用于合成水印也可以），素材上支持图片、文本、矩形三种，支持定位、缩放、旋转、圆角、透明度、颜色、字体、字号、删除线、居中绘制、文本自动换行等特性，足够覆盖图片合成的日常需求。",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/dromara/image-combiner"
+              },
+              {
+                "type": "link",
+                "addDate": 1727090823405,
+                "title": "EasyAi: 国内人气最高的Java人工智能算法框架(java版pytorch)。它可以Maven一键丝滑引入我们的Java项目，无需任何额外的环境配置与依赖，做到开箱即用。再者，它既有一些我们已经封装好的图像目标检测及人工智能客服的模块，也提供各种深度学习，机器学习，强化学习，启发式学习，矩阵运算，求导函数，求偏导函数等底层算法工具。",
+                "icon": "https://logo.clearbit.com/gitee.com",
+                "url": "https://gitee.com/dromara/easyAi"
+              },
+              {
+                "type": "link",
+                "addDate": 1732015168558,
+                "title": "Sa-Token",
+                "icon": "https://logo.clearbit.com/sa-token.cc",
+                "url": "https://sa-token.cc/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1731911519848,
+                "title": "MaxKey-业界领先的IAM身份管理和认证产品",
+                "icon": "https://logo.clearbit.com/maxkey.top",
+                "url": "https://maxkey.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731911590920,
+                "title": "zyplayer-doc 帮助文档",
+                "icon": "https://logo.clearbit.com/doc.zyplayer.com",
+                "url": "https://doc.zyplayer.com/#/integrate/zyplayer-doc"
+              },
+              {
+                "type": "link",
+                "addDate": 1732158089406,
+                "title": "AnLink - Operate Your Phone on PC Desktop",
+                "icon": "https://logo.clearbit.com/anl.ink",
+                "url": "https://anl.ink/"
+              },
+              {
+                "type": "link",
+                "addDate": 1660543261459,
+                "title": "A Markdown Editor for the 21st Century | Zettlr",
+                "icon": "https://logo.clearbit.com/www.zettlr.com",
+                "url": "https://www.zettlr.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732156630523,
+                "title": "marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/marktext/marktext"
+              },
+              {
+                "type": "link",
+                "addDate": 1732263519503,
+                "title": "chartdb/chartdb: Database diagrams editor that allows you to visualize and design your DB with a single query.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chartdb/chartdb"
+              }
+            ]
+          },
           {
             "type": "link",
             "addDate": 1695445782210,
@@ -3777,13 +3896,6 @@
           },
           {
             "type": "link",
-            "addDate": 1676889669558,
-            "title": "EasyExcel官方文档 - 基于Java的Excel处理工具 | Easy Excel",
-            "icon": "https://logo.clearbit.com/easyexcel.opensource.alibaba.com",
-            "url": "https://easyexcel.opensource.alibaba.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1727090291068,
             "title": "简单易用的pdf框架 | x-easypdf",
             "icon": "https://logo.clearbit.com/x-easypdf.cn",
@@ -3798,20 +3910,6 @@
           },
           {
             "type": "link",
-            "addDate": 1727090514061,
-            "title": "image-combiner: ImageCombiner是一个专门用于Java服务端图片合成的工具，没有很复杂的功能，简单实用，从实际业务场景出发，提供简单的接口，几行代码即可实现图片拼合（当然用于合成水印也可以），素材上支持图片、文本、矩形三种，支持定位、缩放、旋转、圆角、透明度、颜色、字体、字号、删除线、居中绘制、文本自动换行等特性，足够覆盖图片合成的日常需求。",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/dromara/image-combiner"
-          },
-          {
-            "type": "link",
-            "addDate": 1727090823405,
-            "title": "EasyAi: 国内人气最高的Java人工智能算法框架(java版pytorch)。它可以Maven一键丝滑引入我们的Java项目，无需任何额外的环境配置与依赖，做到开箱即用。再者，它既有一些我们已经封装好的图像目标检测及人工智能客服的模块，也提供各种深度学习，机器学习，强化学习，启发式学习，矩阵运算，求导函数，求偏导函数等底层算法工具。",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/dromara/easyAi"
-          },
-          {
-            "type": "link",
             "addDate": 1729935374782,
             "title": "xianrendzw/EasyReport: A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。",
             "icon": "https://logo.clearbit.com/github.com",
@@ -3819,17 +3917,24 @@
           },
           {
             "type": "link",
-            "addDate": 1730802187947,
-            "title": "Cool Request | Cool Request",
-            "icon": "https://logo.clearbit.com/coolrequest.dev",
-            "url": "https://coolrequest.dev/"
+            "addDate": 1731911286602,
+            "title": "Bean Searcher",
+            "icon": "https://logo.clearbit.com/bs.zhxu.cn",
+            "url": "https://bs.zhxu.cn/"
           },
           {
             "type": "link",
-            "addDate": 1731561083344,
-            "title": "Pintree",
-            "icon": "https://logo.clearbit.com/app.pintree.io",
-            "url": "https://app.pintree.io/"
+            "addDate": 1731911167922,
+            "title": "Easy-Es",
+            "icon": "https://logo.clearbit.com/www.easy-es.cn",
+            "url": "https://www.easy-es.cn/?form=mp"
+          },
+          {
+            "type": "link",
+            "addDate": 1731913835200,
+            "title": "Hippo4j | Hippo4j",
+            "icon": "https://logo.clearbit.com/hippo4j.cn",
+            "url": "https://hippo4j.cn/"
           }
         ]
       },
@@ -3869,11 +3974,5 @@
         "url": "https://www.jianshu.com/p/eb1875c62ad3"
       }
     ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1680541689856,
-    "title": "其他书签",
-    "children": []
   }
 ]
